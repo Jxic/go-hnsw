@@ -16,7 +16,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/Bithack/go-hnsw"
+	"github.com/Jxic/go-hnsw"
 )
 
 func main() {
